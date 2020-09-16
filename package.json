@@ -1,0 +1,19 @@
+{
+    "name": "a-utils",
+    "version": "1.0.0",
+    "description": "A JavaScript tool library.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JackerYang/a-utils.git"
+    },
+    "author": "ayang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JackerYang/a-utils/issues"
+    },
+    "homepage": "https://github.com/JackerYang/a-utils#readme"
+}
